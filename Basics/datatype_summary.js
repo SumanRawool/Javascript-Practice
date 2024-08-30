@@ -25,3 +25,7 @@ const nullValue = null
 
 //console.log(typeof bigNumber)
 //console.log(typeof nullValue) //object
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Stack (Primitive),Heap(Non-Primitive) Heap me reference milta hai to update orignal value hoti hai
